@@ -1,10 +1,92 @@
 /* Ecrire ci dessous une fonction permettant d'ajouter du texte dans le div appelé container */
 
+function add(){
+    document.getElementById('container').innerHTML= "je suis un super texte !"
 
+}
 
 /* Appeler la fonction */
 
+add();
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// (c) copyright by rémy le bogos
